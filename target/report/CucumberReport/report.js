@@ -34,14 +34,14 @@ formatter.match({
   "location": "Page_Home_Stepdef.Home_Page()"
 });
 formatter.result({
-  "duration": 17852261036,
+  "duration": 29644772400,
   "status": "passed"
 });
 formatter.match({
   "location": "Page_Home_Stepdef.Check_the_logo_Redirects_to_Home_page()"
 });
 formatter.result({
-  "duration": 5555526106,
+  "duration": 13351493428,
   "status": "passed"
 });
 });
